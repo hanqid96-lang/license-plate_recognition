@@ -1,6 +1,6 @@
 # license-plate_recognition
 A Deep Learning-Based Local License Plate Recognition System
-# 基于STM32F429利用深度学习的蓝底车牌本地识别系统
+# 基于STM32F429利用深度学习的车牌本地识别系统
 本项目实现一套**端侧深度学习车牌识别系统**，完全基于本地运行，无需联网，针对安徽省蓝底车牌格式优化，可在自主打板的STM32F429开发板上完成图像采集、预处理、推理与结果输出，适用于嵌入式学习、智能门禁及车载识别等场景的技术探索。
 
 ## 项目核心亮点
