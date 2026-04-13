@@ -16,8 +16,8 @@ A Deep Learning-Based Local License Plate Recognition System
 ├── README.md          # 项目说明
 ├── cut.py           # 数据集切片预处理
 ├── practice.py      # 模型训练脚本
-├── recognition.zip  # STM32完整工程源码
-└── 原理图文件       # 自主打板硬件设计
+├── license plate recognition.zip  # STM32完整工程源码
+└── SCH_Schematic_cc2026-04-13       # 自主打板硬件设计
 ```
 
 ## 致谢与开源
